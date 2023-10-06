@@ -1,0 +1,12 @@
+{
+  "name": "JSON to table",
+  "version": "1.0.0",
+  "description": "Change JSON value to a table for easier viewing experience",
+  "manifest_version": 3,
+  "permissions": ["storage"],
+  "author": "Ngima Gelu Sherpa",
+  "action": {
+    "default_title": "Data to Table",
+    "default_popup": "index.html"
+  }
+}
